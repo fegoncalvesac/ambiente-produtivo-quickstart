@@ -146,4 +146,5 @@ caso apareça a mensagem abaixo, ou alguma relacionada aos plugins, certamente f
 Acesse os tutorias abaixo:
 
 - Guia 1 - Produtividades no Windows com (WSL2) + Docker: [https://github.com/fegoncalvesac/wsl2-docker-quickstart](https://github.com/fegoncalvesac/wsl2-docker-quickstart)
-- Como montar um ambiente produtivo no VSCode: [https://github.com/argentinaluiz/my-vscode-settings](https://github.com/argentinaluiz/my-vscode-settings)
+
+- Como montar um ambiente produtivo no VSCode: [https://github.com/fegoncalvesac/vscode-settings](https://github.com/fegoncalvesac/
