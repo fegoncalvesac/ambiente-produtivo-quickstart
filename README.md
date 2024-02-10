@@ -135,12 +135,11 @@ irei deixar na pasta [dotfiles](dotfiles/.zshrc) o meu arquivo .zshrc no qual es
 caso apareça a mensagem abaixo, ou alguma relacionada aos plugins, certamente foi instalado incorretamente ou não foi adicionado no .zshrc.
 
 
-No guia 03, onde passarei e ensinarei a mostrar minha configuração no VSCODE, irei mostrar como adicionar o terminal ZSH do hyper no VSCODE.
-
-até la.
-
 
 ![zsh theme](img/erro_tema.PNG)
+
+## No guia 03, onde passarei e ensinarei a mostrar minha configuração no VSCODE, irei mostrar como adicionar o terminal ZSH do hyper no VSCODE, até la.
+
 
 ## Quer dicas como ser mais produtivo no Windows?
 
